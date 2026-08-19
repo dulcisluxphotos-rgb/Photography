@@ -161,4 +161,4 @@ if(glow){
 window.addEventListener("scroll",()=>{
   const hero=document.querySelector(".premium-hero .hero-image");
   if(hero && window.scrollY<window.innerHeight) hero.style.transform=`scale(1.03) translateY(${window.scrollY*.06}px)`;
-},{passive:true});
+},{passive:true}); 
