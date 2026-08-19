@@ -195,4 +195,4 @@ h1,h2,h3,.hero-content,.brand-fallback{font-family:var(--serif)}
  .premium-featured-grid{grid-template-columns:1fr;padding:0 5%}
  .premium-featured-card.large{grid-column:auto;height:430px}
  .premium-featured-card{height:330px}
-}
+} 
